@@ -1,3 +1,7 @@
+//  NAMA    : NABILA DWI KUSNI ABDILLAH //
+//  KELAS   : IF 8 //
+ // NIM     : 10123320 //
+
 // Toggle class active //
 const navbarNav = document.querySelector(".navbar-nav");
 // ketika humberger menu di klik //
